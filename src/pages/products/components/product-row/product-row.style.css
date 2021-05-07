@@ -1,0 +1,18 @@
+.product-row-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 30px;
+    border: 1.5px solid red;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.color-red{
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    width: 10%;
+}
+
